@@ -1,2 +1,0 @@
-# exercio-quartix
-desafio quaritx
