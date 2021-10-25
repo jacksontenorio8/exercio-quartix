@@ -1,4 +1,5 @@
 """@jacksontenorio8
+pytho3
 O restaurante “Tudo de Bom” cobra R$ 32,00 pelo quilo de refeição. Escreva um algoritmo que 
 leia o peso do prato montado pelo cliente (em quilos) e imprima o valor a pagar.
 """
